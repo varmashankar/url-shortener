@@ -28,5 +28,5 @@ This is a simple URL shortening service built with **Node.js**, **Express**, and
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/varmashankar/url-shortener.git
 cd url-shortener
